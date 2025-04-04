@@ -79,7 +79,7 @@ Any contributions to its development are highly encouraged.
 
 ## Acknowledgements
 This project is a complete brain child of 
-[Abhiram Mangipudi](https://github.com/K0MPLEXWorksTogether/). If you like the work, please consider leaving a star, or coming forward for contributions.
+Abhiram Mangipudi and Varshith Reddy. If you like the work, please consider leaving a star, or coming forward for contributions.
 
 ## License
 This project is released under the [MIT License](./LICENSE)
