@@ -28,11 +28,6 @@ All datasets used for testing this project have been acquired from the below lis
 - **Weather Prediction Dataset:** [Weather Classifcation Dataset - Kaggle](https://www.kaggle.com/datasets/nikhil7280/weather-type-classification)
 - **HR Employee Analytics:** [HR Employee Analytics](https://www.kaggle.com/datasets/kmldas/hr-employee-data-descriptive-analytics)
 
-## Sample Run
-Here's a small sample run of the project:
-
-https://github.com/K0MPLEXWorksTogether/DataWhisperer/assets/139705842/ac6672e5-b066-41d5-a389-8bc898c03b72
-
 
 ## Usage
 
@@ -62,15 +57,6 @@ pip install -r requirements.txt
 ```python
 streamlit run DataWhisperer.py
 ```
-
-## Limitations
-While the tool itself is built on the idea of automating classic ML tasks, it has not reached that level of automation.
-
-- **Classification Only:** The website for now can only deal with multiclass or binary classifcation. Work must be put in for regression, clustering, etc.
-- **Exploratory Data Analysis:** As different problems and different datasets require different approaches, automation of EDA can help in deciding models and tasks.
-- **Data Preprocessing:** A minimum of one text-based feature is required in the dataset for now.
-- **Time To Find Model:** The website now takes an extremely high amount of time to find the best model for the dataset.
-
 
 ## Future Scope
 The future scope of this project is to bring in other classic ML problems like classification, regression and ranking.
